@@ -1,0 +1,78 @@
+[
+  {
+    "title": "Intermediate SharePoint Developer",
+    "company": "SHR Consulting Group LLC",
+    "location": "Virginia, USA",
+    "date": "2021-2023",
+    "details": [
+      "Utilized built-in features of SharePoint (Out of Box - OOB) to implement native functionality and maintain over 50 sites, including managing permissions and document libraries.",
+      "Adopted best technical skills for delivering technical assistance to all customers of Defense Security Cooperation Agency (DSCA) as well as leader in security cooperation for Department of Defense (DOD).",
+      "Leveraged effective communication skills to coordinate with customer teams for determining process challenges and proposing corrective action plans.",
+      "Led various automation customer processes, such as distributing forms, devising calendar overlays, conducting data analysis, and crafting forms that trigger intricate workflows.",
+      "Played vital role as member of knowledge management team to drive customer value by creating and executing automation strategies.",
+      "Showcased key expertise in SharePoint to configure web parts, manage workflows, grant permissions, handle content types, organize document libraries, and utilize SharePoint Designer.",
+      "Met specific requirements and enhanced user experiences by establishing custom applications with HTML, CSS, ReactJS, and TypeScript."
+    ]
+  },
+
+  {
+    "title": "SharePoint Developer",
+    "company": "Jacobs Technology",
+    "location": "Maryland, USA",
+    "date": "2020 – 2021",
+    "details": [
+        "Utilized SharePoint's Out of the Box (OOB) features to customize 20+ sites DISA DEPS sites by overseeing permissions management and document libraries.",
+        "Demonstrated SharePoint knowledge to configure web parts, direct workflow development, and supervise permissions management while coordinating with content types, document libraries, and SharePoint designers",
+        "Fulfilled client requirements by devising and integrating workflows in SharePoint Designer, Nintex, and PowerApps"
+    ]
+  },
+
+  {
+    "title": "Helpdesk Administrator & SharePoint Content Administrator",
+    "company": "Jacobs Technology (SALTT)",
+    "location": "Fort Walton Beach, FL",
+    "date": "2018 – 2020",
+    "details": [
+        "Delivered exceptional customer service by administering technical operations of 2,300 users internationally.",
+        "Offered technical support to manage overall SALTT operations based on systems, software, and hardware.",
+        "Directed Active Directory accounts, such as creating new accounts, disabling existing ones, resetting passwords, and facilitating account movements.",
+        "Utilized HTML and some JavaScript to develop content for entire SALTT SharePoint portal.",
+        "Leveraged extensive proficiency in SharePoint, such as configuring web parts, handling workflows, managing permissions, working with content types/document libraries, and employing SharePoint Designer.",
+        "Prepared presentations and conducted weekly change management meetings to discuss enhancement plans."
+    ]
+  },
+
+  {
+    "title": "Helpdesk Support Intern",
+    "company": "Jacobs Technology",
+    "location": "Fort Walton Beach, FL",
+    "date": "2017 – 2018",
+    "details": [
+        "Analyzed technical issues and devised solutions for computer systems, software, and hardware. Acted as primary point of contact to address customer queries/technical issues and provide timely support to ensure customer satisfaction.",
+        "Implemented diagnostic techniques and relevant questioning methods to lead remote troubleshooting."
+    ]
+  },
+
+  {
+    "title": "IT Analyst",
+    "company": "City of Fort Walton Beach",
+    "location": "Destin/Fort Walton Beach, FL",
+    "date": "2017 – 2017",
+    "details": [
+        "Integrated and updated application software into related systems and Windows of over 100 personal computers. Assured proper user provisioning, deactivating accounts, and granting permissions to maintain secure and organize Active Directory environment.",
+        "Communicated and resolved concerns of over 300 users on various Microsoft Windows-based software."
+    ]
+  },
+
+  {
+    "title": "COOP Programmer/Analyst I",
+    "company": "Phoebe Memorial Hospital",
+    "location": "Albany, GA",
+    "date": "2016 – 2016",
+    "details": [
+        "Served as sole SharePoint administrator to supervise platform's operations for large user base of over 2K employees.",
+        "Gained understanding of PowerShell scripting while devising workflows, users with securities, and custom forms to ensure prompt completion of routine activities.",
+        "Enhanced user identification and engagement with hospital's intranet site by coordinating with marketing team."
+    ]
+  }
+]

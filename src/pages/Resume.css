@@ -1,0 +1,61 @@
+.resume-page {
+    padding: 2rem;
+    background-color: #010101;
+    color: #fefdfd;
+    min-height: 100vh;
+}
+
+.resume-header h1 {
+    font-size: 2.5rem;
+    color: #5f43b2;
+    margin-bottom: 0.5rem;
+}
+
+.resume-header p {
+    color: #b1aebb;
+    max-width: 1400px;
+    line-height: 1.6;
+}
+
+.resume-skills {
+    margin-top: 2rem;
+}
+
+.resume-skills h2 {
+    font-size: 1.8rem;
+    color: #fefdfd;
+    margin-bottom: 1rem;
+}
+
+.skill-tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    list-style: none;
+    padding: 0;
+}
+
+.skill-tags li {
+    background-color: #3a3153;
+    color: #fefdfd;
+    padding: 0.5rem 1rem;
+    border-radius: 9999px;
+    font-size: 0.9rem;
+    box-shadow: 0 0 0.5rem rgba(95, 67, 178, 0.5);
+}
+
+.resume-experience {
+    margin-top: 3rem;
+}
+
+.resume-experience h2 {
+    font-size: 1.8rem;
+    margin-bottom: 2rem;
+    color: #fefdfd;
+}
+
+.timeline {
+    margin-top: 2rem;
+    position: relative;
+}
+
