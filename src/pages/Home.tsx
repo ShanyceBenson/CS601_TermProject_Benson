@@ -5,7 +5,7 @@ function Home() {
     <div className="home-container">
       <div className="profile-section">
         <img
-          src="/profile-placeholder.jpg"
+          src={`${import.meta.env.BASE_URL}/profile-placeholder.jpg`}
           alt="Shanyce(Me)"
           className="profile-img"
         />
