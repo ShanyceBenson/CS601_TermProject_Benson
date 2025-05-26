@@ -12,7 +12,7 @@ function About() {
           building my career remotely while soaking in new experiences and
           perspectives. When I’m not coding, you’ll probably find me out for a
           walk or bike ride, controller in hand playing Marvel Rivals, or tuned
-          in to my favorite shows—Tracker, Will Trent, The Rookie, 911, and
+          in to my favorite shows like Tracker, Will Trent, The Rookie, 911, and
           Found. I watch them faithfully each week, and yes, I will cancel plans
           to avoid spoilers.
         </p>
