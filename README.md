@@ -1,54 +1,80 @@
-# React + TypeScript + Vite
+# CS601 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is an in-progress personal portfolio website built with **React**. It showcases my web development skills, personal interests, professional background, and unique personality through a creative and responsive interface.
 
-Currently, two official plugins are available:
+## 📌 Project Overview
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The purpose of this portfolio is to:
+- Highlight my experience and skillset in front-end development
+- Introduce myself as a creative and structured problem solver
+- Provide an interactive and responsive platform to explore my projects and contact information
 
-## Expanding the ESLint configuration
+## 🔧 Technologies Used
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- React
+- HTML5 / CSS3
+- React Router DOM
+- Responsive Design (Flexbox + CSS Grid)
+- Media Queries
+- JavaScript (ES6+)
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## ✅ Completed Features So Far
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+### 1. **Navigation Bar**
+- Responsive navbar with active route highlighting
+- Hamburger menu implemented for small screen sizes
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+### 2. **Home Page**
+- Grid-based layout with profile image and introduction section
+- Call-to-action button linking to Projects page
+- Custom background and styling
+- Responsive across screen sizes
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+### 3. **About Me Page**
+- Includes a personal bio, values, background, and fun facts
+- Responsive grid layout
+- Automatically centers the last item on smaller screens
+- Enhanced hover and box shadow effects
+
+### 4. **Footer**
+- Styled footer added to every page
+- Contains name, year, and personal branding
+- Responsive layout
+
+### 5. **Interest Page**
+- List of personal and technical interests
+- Styled and responsive layout using CSS grid
+
+### 6. **Resume Page**
+- Vertical timeline display
+
+### 7. **Get to Know Me Game**
+- Drag-and-drop matching game built to engage users interactively
+- Offers a fun way to learn more about me
+
+### 8. **Contact Form**
+- Functional form using Formspree for backend handling
+- Confirmation message appears on successful submission
+
+## 🚧 Work in Progress
+- Projects section
+- Final design polish and enhancements
+
+## ⚙️ How to Run
+1. Clone the repository: git clone https://github.com/ShanyceBenson/CS601_TermProject_Benson.git
+
+2. Install dependencies: npm install
+
+3. Start the development server: npm run dev
+
+-or-
+
+Access here: https://shanycebenson.github.io/CS601_TermProject_Benson/#/
+
+## 👩🏽‍💻 Author
+
+**Shanyce Benson**
+
+## 📝 Notes
+
+**Designed for Boston University CS601 course.**

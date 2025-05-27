@@ -1,6 +1,7 @@
 import { Routes, Route } from "react-router-dom";
 import NavBar from "./components/NavBar";
 import Layout from "./components/Layout";
+import Footer from "./components/Footer";
 
 import Home from "./pages/Home";
 import About from "./pages/About";
@@ -25,6 +26,7 @@ function App() {
           <Route path="/game" element={<Game />} />
         </Routes>
       </Layout>
+      <Footer />
     </div>
   );
 }
