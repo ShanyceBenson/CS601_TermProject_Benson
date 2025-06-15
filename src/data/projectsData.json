@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "title": "CS601_HW1 Form Authentication",
+      "description": "A simple HTML/CSS/JS form with validation and a personalized submission summary.",
+      "github": "https://github.com/ShanyceBenson/CS601_HW1_Benson"
+    },
+    {
+      "id": 2,
+      "title": "CS601_HW2 Drag and Drop",
+      "description":
+        "An interactive drag-and-drop activity sorting movies and sitcoms using DOM manipulation.",
+      "github": "https://github.com/ShanyceBenson/CS601_HW2_Benson"
+    },
+    {
+      "id": 3,
+      "title": "CS601_HW3 Portfolio Website",
+      "description": "A responsive dark-mode one-page portfolio using Flexbox, Grid, and accessibility best practices.",
+      "github": "https://github.com/ShanyceBenson/CS601_HW3_Benson"
+    },
+    {
+      "id": 4,
+      "title": "CS601_HW4 Country Management System",
+      "description": "A TypeScript OOP app for managing and filtering countries based on climate/environmental data.",
+      "github": "https://github.com/ShanyceBenson/CS601_HW4_Benson_country-app"
+    },
+    {
+      "id": 5,
+      "title": "CS601_HW5 Game Inventory",
+      "description": "A React-based game inventory app showing a list of games and individual detail pages.",
+      "github": "https://github.com/ShanyceBenson/cs601_hw5_benson"
+    }
+]

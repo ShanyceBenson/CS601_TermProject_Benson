@@ -2,7 +2,7 @@
     max-width: 600px;
     margin: 0 auto;
     padding: 2rem;
-    background-color: #1e1e2f;
+    background-color: #3a3153;
     border-radius: 1rem;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.3);
     color: #fefdfd;
@@ -53,7 +53,7 @@
 
 .contact-form button {
     padding: 0.75rem 1.5rem;
-    background-color: #3a3153;
+    background-color: slateblue;
     color: #fff;
     border: none;
     border-radius: 0.5rem;
