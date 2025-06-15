@@ -19,7 +19,7 @@ function Home() {
           for solving problems and sprinkling a bit of fun into every line of
           code. Explore, play, and stay awhile!
         </p>
-        <a href="/projects" className="cta-button">
+        <a href={`${import.meta.env.BASE_URL}#/Projects`} className="cta-button">
           View My Work
         </a>
       </div>
