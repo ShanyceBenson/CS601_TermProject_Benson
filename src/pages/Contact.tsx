@@ -12,7 +12,7 @@ function Contact() {
 
     const newErrors: { [key: string]: string } = {};
 
-    if (!/^[a-zA-Z]{2,}$/.test(name)) {
+    if (!/^[a-zA-Z\s]{2,}$/.test(name.trim())) {
       newErrors.name = "Name must be at least 2 letters and contain only alphabets.";
     }
 

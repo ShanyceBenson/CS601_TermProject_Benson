@@ -56,9 +56,9 @@ The purpose of this portfolio is to:
 - Functional form using Formspree for backend handling
 - Confirmation message appears on successful submission
 
-## 🚧 Work in Progress
-- Projects section
-- Final design polish and enhancements
+### 9. **Projects**
+- bProjects are loaded dynamically from a local projects.json file located in the data/ directory.
+- The page uses fetch() with useEffect() and useState() hooks in React to render the data at runtime.
 
 ## ⚙️ How to Run
 1. Clone the repository: git clone https://github.com/ShanyceBenson/CS601_TermProject_Benson.git
